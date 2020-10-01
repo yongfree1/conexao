@@ -1,7 +1,7 @@
 <?php
 $servidor="localhost";
 $usuario="root";
-$senha="123";
+$senha="";
 $banco="sistema";
 
 //conecta com o SERVIDOR
