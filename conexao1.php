@@ -1,7 +1,7 @@
 <?php
 $servidor="localhost";
 $usuario="root";
-$senha="123";
+$senha="";
 $banco="sistema";
 
 //conecta com o SERVIDOR
@@ -13,4 +13,4 @@ mysqli_select_db($conexao,$banco)
 or die ("Não foi possível conectar ao Banco");
 
 
-?>
+?> a
